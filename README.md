@@ -1,2 +1,4 @@
-# defianalytics
-Парсеры и собранные ими данные для решения кейса P2P на кейс-чемпионате от Phystech Business Solutions
+# DeFi_Analitics
+Кейс-чемпионат в сфере высокотехнологичного бизнеса от PHYSTECH BUSINESS SOLUTIONS
+URL: https://phystechbs.ru/
+
